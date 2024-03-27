@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 19:57:30</sys_created_on>
+        <sys_id>4ee6a64c4759021026fa52e1d16d43c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_4ee6a64c4759021026fa52e1d16d43c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 19:57:30</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 14pt;"><img title="QTbug_100p.png" src="/sys_attachment.do?sys_id&#61;a927ae844799021026fa52e1d16d43c7" alt="" width="100" height="100" />Properties for the <strong>NeedIt</strong> application that can be adjusted by an application administrator.</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=4ee6a64c4759021026fa52e1d16d43c8"/>
+</record_update>
